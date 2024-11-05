@@ -1,0 +1,10 @@
+.env
+# Cargo build files
+/target
+
+# All js files
+*.js
+
+node_modules/
+build/
+.vercel
