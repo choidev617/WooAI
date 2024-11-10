@@ -2,7 +2,7 @@
 
 Welcome to **WooAI**! In this exciting game, players embark on an underwater journey, fighting enemies and overcoming challenges to reach the highest level of the ocean floor. With engaging gameplay, pixel art visuals, and immersive background music, WooAI is a fun retro-inspired adventure.
 
-![Game Screenshot](./images/game-screenshot.png) <!-- Replace with actual screenshot path -->
+![Game Screenshot](./shot.png) <!-- Replace with actual screenshot path -->
 
 ## 🌟 Features
 
